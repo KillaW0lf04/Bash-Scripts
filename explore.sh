@@ -1,4 +1,5 @@
-# Quick shortcut to prevent yourself from writing 'nautilus' in the command line
+# Quick shortcut to prevent yourself from writing 'nautilus' (which i find very
+# slow to type) in the command line
 # Rename this file to 'explore' (without .sh) and move it to /usr/bin to allow
 # proper use.
 
