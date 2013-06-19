@@ -1,7 +1,9 @@
 Bash-Scripts
 ============
 
-A set of bash scripts i wrote during my time developing. While most will not be complicated, they are written for pure convenience when writing in the command line.
+A set of bash scripts i wrote during my time developing. While they may not be complicated, they are written for pure convenience when making use of the command line on UNIX based systems. They are also a way for me to slowly learn bash scripting.
+
+Feel free to take and modify any of them.
 
 In order to make proper use of them, the following should be done:
 
