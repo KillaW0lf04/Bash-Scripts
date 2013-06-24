@@ -8,6 +8,8 @@ then
    echo
    echo "Make sure to enclose the parameter within qoutation marks \"\" to allow the script"
    echo "to work as intended with file patterns."
+   
+   echo "REQUIRES: python, gprof2dot.py script, dot"
 else
    match=".profile"
    png=".png"
