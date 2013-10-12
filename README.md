@@ -12,3 +12,11 @@ In order to make proper use of them, the following should be done:
 - Move the file to the /usr/bin: type *sudo mv explore /usr/bin*
 
 You may know run the file in any directory by typing its file name (in this example *explore*)
+
+Commands
+========
+
+* repeat
+* geneate_obj_graph
+* purge
+* explore
