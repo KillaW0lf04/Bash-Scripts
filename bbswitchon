@@ -1,0 +1,3 @@
+# Turn the nvidia graphics card on
+tee /proc/acpi/bbswitch <<< ON
+modprobe nvidia_331

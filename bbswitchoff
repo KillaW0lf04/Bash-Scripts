@@ -1,0 +1,2 @@
+# Turn the nvidia graphics card off
+tee /proc/acpi/bbswitch <<< OFF
