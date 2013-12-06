@@ -20,3 +20,6 @@ Commands
 * geneate_obj_graph
 * purge
 * explore
+* bbswtichon: Turns on an nvidia graphics card using bumblebee and loads the nvidia 331 driver
+* bbswitchoff: Turns an nvidia graphics card back off using bumblebee
+
