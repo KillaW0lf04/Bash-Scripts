@@ -20,6 +20,7 @@ Commands
 * geneate_obj_graph
 * purge
 * explore
+* lscl (Requires DeviceInfo.exe in /usr/bin)
 
 Sudo Commands
 =============
